@@ -14,7 +14,7 @@
   "dependencies": {
     "d3": "^5.16.0",
     "express": "^5.0.0-alpha.8",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   },
   "devDependencies": {
     "jest": "^26.0.1"
